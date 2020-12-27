@@ -1,0 +1,107 @@
+
+
+
+
+.nav-item
+{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 4px;
+}
+
+*
+{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body
+{
+    
+}
+
+.navbar-dark .navbar-nav .nav-link
+{
+    color:white !important;
+    
+}
+
+.navbar-dark .navbar-nav .nav-link:hover
+{
+    color: red !important;
+}
+
+.nav-link-create
+{
+    color: pink !important;
+}
+.carousel-inner
+{
+    background-color:darkblue;
+    height: 100vh;
+}
+ 
+
+  .omar
+  {
+      
+      position: absolute;
+      top: 43%;
+      right: 0;
+      width: 50%;
+      color: white;
+
+  }
+
+
+  .for
+  {
+      font-size: 2rem;
+      font-weight: 900;
+      color:chartreuse;
+  }
+
+.click
+{
+    
+    
+    
+    
+}
+
+.click1
+{
+    background-color:red;
+    
+    border-radius: 95%;
+    color: white;
+}
+
+.btn2
+{
+    margin-left: 40px;
+    border-radius: 95%;
+    color: white;
+    background-color: black;
+    
+}
+.user
+{
+    position: absolute;
+    top: 43%;
+    right: 0;
+    
+    width: 50%;
+    height: 200px;
+    color: white;
+}
+
+
+.carousel-indicators li
+{
+    width: 12px;
+    height: 12px;
+    border-radius:50%;
+    background-color: red;
+ }
