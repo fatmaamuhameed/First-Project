@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+/* <<<<<<< HEAD */
 
 .nav-item
 {
@@ -91,11 +91,6 @@
     border-radius:50%;
     background-color: red;
  }
-=======
-*
-{
-    box-sizing: border-box;
-}
 
 .part1 h2
 {
@@ -135,4 +130,35 @@
     color: #fc0254;
 
 }
->>>>>>> origin/fatma-ahmed
+/* >>>>>>> origin/fatma-ahmed */
+
+.forth-sec  h2  
+{
+    color: #0a183d;
+   
+    font-size: 4rem;
+     
+    
+}
+
+.forth-sec h5 ,p 
+{
+    color: #0a183d;
+    font-weight: 600;
+    text-align: center;
+    
+}
+.forth-sec .items img
+{
+    border-radius: 40px;
+    box-shadow: -5px 5px 24px -9px rgba(0, 0, 0, 1);
+}
+.forth-sec section
+{
+    height: 100vh;
+}
+.forth-sec span{
+    font-weight: bolder;
+    
+}
+/* >>>>>>> origin/hossam/ashraf */
