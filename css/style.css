@@ -1,7 +1,4 @@
 
-
-
-
 .nav-item
 {
     padding-left: 25px;
@@ -14,11 +11,6 @@
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
-}
-
-body
-{
-    
 }
 
 .navbar-dark .navbar-nav .nav-link
@@ -62,13 +54,6 @@ body
       color:chartreuse;
   }
 
-.click
-{
-    
-    
-    
-    
-}
 
 .click1
 {
