@@ -103,7 +103,9 @@
 {
 
 }
-
+.click a{
+    text-decoration: none;
+}
 .sec2
 {
     
