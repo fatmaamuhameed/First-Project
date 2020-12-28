@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .nav-item
 {
@@ -90,3 +91,48 @@
     border-radius:50%;
     background-color: red;
  }
+=======
+*
+{
+    box-sizing: border-box;
+}
+
+.part1 h2
+{
+    font-size: 60px;
+}
+.part2 p
+{
+    margin-bottom: 35px;
+    padding-top: 10px;
+    font-size: 15px;
+    color: #6a7080;
+    line-height: 1.8;
+    font-weight: 500;
+}
+
+.sec2
+{
+    
+    background-image: url(../image/how-to-bg.png);
+    background-size: cover;
+}
+.text-white h2
+{
+    font-size: 60px;
+}
+.row-content p , h4
+{
+
+   
+    font-size: 20px;
+}
+
+.icons
+{
+    margin: 15px;
+    font-size: 30px;
+    color: #fc0254;
+
+}
+>>>>>>> origin/fatma-ahmed
