@@ -62,14 +62,14 @@
 {
     background-color:red;
     
-    border-radius: 95%;
+    border-radius: 50%;
     color: white;
 }
 
 .btn2
 {
     margin-left: 40px;
-    border-radius: 95%;
+    border-radius: 50%;
     color: white;
     background-color: black;
     
