@@ -1,4 +1,5 @@
 /* <<<<<<< HEAD */
+/* <<<<<<< HEAD */
 
 .nav-item
 {
@@ -162,3 +163,41 @@
     
 }
 /* >>>>>>> origin/hossam/ashraf */
+
+
+.subsc{
+    background-color: #0a183d;
+}
+
+.content h3{
+    color: #fc0254;
+    font-size: 30px;
+
+}
+
+.content h2{
+    font-size: 60px;
+}
+.content button{
+    border: none;
+    background-color: #fc0254;
+    text-transform: uppercase;
+    border-radius: 50px;
+    padding: 23px 20px;
+    min-width : 195px;
+    color: white;
+}
+
+.list-content{
+    background-color: #1c294a;
+    border-radius: 42px;
+    color: white;
+    padding: 70px 15px 50px 90px;
+    font-size: 18px;
+    
+}
+.list-content li{
+    list-style: none;
+    margin-bottom: 25px;
+}
+/* >>>>>>> origin/fatmamohameed */
